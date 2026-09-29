@@ -70,14 +70,14 @@ Sou dedicada, organizada e tenho facilidade para aprender coisas novas. Este per
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&bg_color=000000&title_color=4A9EFF&icon_color=4A9EFF&text_color=c9d1d9&border_color=1e6fff" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&bg_color=000000&title_color=4A9EFF&text_color=c9d1d9&border_color=1e6fff" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mariaito-19&show_icons=true&bg_color=000000&title_color=4A9EFF&icon_color=4A9EFF&text_color=c9d1d9&border_color=1e6fff" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaito-19&layout=compact&bg_color=000000&title_color=4A9EFF&text_color=c9d1d9&border_color=1e6fff" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&background=000000&ring=4A9EFF&fire=4A9EFF&currStreakLabel=4A9EFF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e&stroke=1e6fff&border=1e6fff" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=mariaito-19&background=000000&ring=4A9EFF&fire=4A9EFF&currStreakLabel=4A9EFF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e&stroke=1e6fff&border=1e6fff" alt="Streak" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake-dark.svg" />
-  <img alt="Snake da contribuição" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariaito-19/mariaito-19/output/github-snake-dark.svg" />
+  <img alt="Snake da contribuição" src="https://raw.githubusercontent.com/mariaito-19/mariaito-19/output/github-snake.svg" />
 </picture>
 
 </div>
