@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e6fff&height=200&section=header&text=Maria%20Fernanda%20Ito&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descSize=16&descAlignY=58" alt="Banner" />
+<img src="assets/banner.svg" width="100%" alt="Maria Fernanda Ito — Desenvolvimento de Sistemas" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3200&pause=1200&color=4A9EFF&center=true&vCenter=true&width=620&lines=Estudante+de+ADS+no+COTUCA;Python+%C2%B7+JavaScript+%C2%B7+Java+%C2%B7+SQL;Em+busca+da+primeira+oportunidade" alt="Animação de digitação" />
 
@@ -25,15 +25,39 @@ Sou dedicada, organizada e tenho facilidade para aprender coisas novas. Este per
   <img src="https://img.shields.io/badge/Redes%20de%20Computadores-000000?style=for-the-badge&logoColor=4A9EFF" alt="Redes" />
 </p>
 
-## Projetos
+## Projetos em destaque
 
 <table>
-  <tr><td valign="top"><b>ProjetoPP — destaque</b><br />Next.js · TypeScript · Node.js · SQL Server<br />Sistema acadêmico de reserva de laboratórios e salas, em desenvolvimento. Esta versão contém cadastros e listagens.<br /><a href="https://github.com/mariaito-19/ProjetoPP">Ver código →</a></td></tr>
-  <tr><td valign="top"><b>Quadro Kanban</b><br />HTML · CSS · JavaScript<br />Criação de tarefas, avanço entre colunas e exclusão. Trabalho com Thiago.<br /><a href="https://github.com/mariaito-19/quadro-kanban-js">Ver código →</a></td></tr>
-  <tr><td valign="top"><b>Mahjong da Mão</b><br />HTML · CSS · JavaScript<br />Jogo de pareamento de peças com níveis, dicas e efeitos sonoros. Projeto em dupla.<br /><a href="https://github.com/mariaito-19/jogo-pareamento-pecas">Ver código →</a></td></tr>
-  <tr><td valign="top"><b>Jogo de desviar de inimigos</b><br />Python · pygame<br />Movimentação por teclado, sprites, colisões e três vidas.<br /><a href="https://github.com/mariaito-19/jogo-desvia-inimigos-pygame">Ver código →</a></td></tr>
-  <tr><td valign="top"><b>Exercícios de Python</b><br />Python<br />Funções com listas de registros, notas, médias e frequência.<br /><a href="https://github.com/mariaito-19/exercicios-python">Ver código →</a></td></tr>
+<tr><td colspan="2" valign="top">
+<h3>🏫 ProjetoPP · Reserva de Laboratórios e Salas</h3>
+<p><b>Next.js · React · TypeScript · Node.js · SQL Server</b></p>
+<p>Meu principal projeto acadêmico: uma aplicação web para reserva de espaços. A entrega atual contém cadastros e listagens de salas, laboratórios e usuários.</p>
+<p><a href="https://github.com/mariaito-19/ProjetoPP"><b>Explorar o projeto →</b></a> · Em desenvolvimento</p>
+</td></tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🀄 Mahjong da Mão</h3>
+<p><b>HTML · CSS · JavaScript</b></p>
+<p>Jogo de pareamento com níveis, dicas, efeitos sonoros e uma mão com espaço limitado. Projeto em dupla.</p>
+<p><a href="https://github.com/mariaito-19/jogo-pareamento-pecas"><b>Ver código →</b></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>📋 Quadro Kanban</h3>
+<p><b>HTML · CSS · JavaScript</b></p>
+<p>Organização de tarefas com criação, avanço entre colunas e exclusão. Desenvolvido com Thiago.</p>
+<p><a href="https://github.com/mariaito-19/quadro-kanban-js"><b>Ver código →</b></a></p>
+</td>
+</tr>
 </table>
+
+## Estudos e prática
+
+| Coleção | Conteúdo | Acesso |
+|---|---|---|
+| 🐍 **Estudos de Python** | Lógica, consultas em listas, notas, frequência e strings | [Explorar exercícios](https://github.com/mariaito-19/exercicios-python) |
+| 🎮 **Desvie dos Inimigos** | Sprites, teclado, colisões e laço principal com pygame | [Explorar o jogo](https://github.com/mariaito-19/jogo-desvia-inimigos-pygame) |
+
+<sub>Os READMEs de cada trabalho apresentam como executar, o estágio atual e as limitações conhecidas.</sub>
 
 ## Estatísticas
 
