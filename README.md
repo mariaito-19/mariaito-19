@@ -28,42 +28,11 @@ Sou dedicada, organizada e tenho facilidade para aprender coisas novas. Este per
 ## Projetos
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Quadro Kanban</b> · JavaScript<br />
-      Quadro Kanban com arrays de objetos, renderização dinâmica em HTML e filtros.<br />
-      <a href="LINK-DO-REPOSITORIO">Ver código →</a>
-    </td>
-    <td width="50%" valign="top">
-      <b>Agenda de contatos</b> · Python<br />
-      Cadastro, busca, atualização, exclusão e listagem de contatos, com busca binária.<br />
-      <a href="LINK-DO-REPOSITORIO">Ver código →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Jogo de desviar de inimigos</b> · Python + pygame<br />
-      Jogo com classes de sprites, loop principal e detecção de colisão.<br />
-      <a href="LINK-DO-REPOSITORIO">Ver código →</a>
-    </td>
-    <td width="50%" valign="top">
-      <b>Jogo de pareamento de peças</b> · Projeto em dupla<br />
-      Inspirado em Mahjong Solitaire, com mecânica própria de "mão" limitada e níveis.<br />
-      <a href="LINK-DO-REPOSITORIO">Ver código →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Automação de testes</b> · Robot Framework<br />
-      Testes automatizados da tela de login do Saucedemo, usando Page Object Pattern.<br />
-      <a href="LINK-DO-REPOSITORIO">Ver código →</a>
-    </td>
-    <td width="50%" valign="top">
-      <b>Exercícios de POO</b> · Java<br />
-      Classe Data com validações e jogo da forca, aplicando encapsulamento, construtores e exceções.<br />
-      <a href="LINK-DO-REPOSITORIO">Ver código →</a>
-    </td>
-  </tr>
+  <tr><td valign="top"><b>ProjetoPP — destaque</b><br />Next.js · TypeScript · Node.js · SQL Server<br />Sistema acadêmico de reserva de laboratórios e salas, em desenvolvimento. Esta versão contém cadastros e listagens.<br /><a href="https://github.com/mariaito-19/ProjetoPP">Ver código →</a></td></tr>
+  <tr><td valign="top"><b>Quadro Kanban</b><br />HTML · CSS · JavaScript<br />Criação de tarefas, avanço entre colunas e exclusão. Trabalho com Thiago.<br /><a href="https://github.com/mariaito-19/quadro-kanban-js">Ver código →</a></td></tr>
+  <tr><td valign="top"><b>Mahjong da Mão</b><br />HTML · CSS · JavaScript<br />Jogo de pareamento de peças com níveis, dicas e efeitos sonoros. Projeto em dupla.<br /><a href="https://github.com/mariaito-19/jogo-pareamento-pecas">Ver código →</a></td></tr>
+  <tr><td valign="top"><b>Jogo de desviar de inimigos</b><br />Python · pygame<br />Movimentação por teclado, sprites, colisões e três vidas.<br /><a href="https://github.com/mariaito-19/jogo-desvia-inimigos-pygame">Ver código →</a></td></tr>
+  <tr><td valign="top"><b>Exercícios de Python</b><br />Python<br />Funções com listas de registros, notas, médias e frequência.<br /><a href="https://github.com/mariaito-19/exercicios-python">Ver código →</a></td></tr>
 </table>
 
 ## Estatísticas
